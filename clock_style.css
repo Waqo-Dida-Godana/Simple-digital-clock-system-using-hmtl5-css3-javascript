@@ -1,0 +1,32 @@
+.container{
+    width: 400px;
+    padding: 4% 4% 4%;
+    margin : auto;
+    background-color: #fff;
+    text-align: center;
+    position:relative;
+    top:50px;
+    vertical-align: middle;
+    }
+h1{
+    position:relative;
+    color:seagreen;
+    text-align: center;
+}
+table{
+background-color: silver;
+}
+th{
+    color:red;
+} 
+td{
+    color: steelblue;
+}  
+p{
+    text-align: center;
+
+}
+footer{
+    color: red;
+    text-decoration: black;
+} 
